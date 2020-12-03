@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tea-individual/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/tea-individual/static/js/main.86e97798.chunk.js",
+    "main.js.map": "/tea-individual/static/js/main.86e97798.chunk.js.map",
+    "runtime-main.js": "/tea-individual/static/js/runtime-main.3c96b134.js",
+    "runtime-main.js.map": "/tea-individual/static/js/runtime-main.3c96b134.js.map",
+    "static/js/2.6e62adfc.chunk.js": "/tea-individual/static/js/2.6e62adfc.chunk.js",
+    "static/js/2.6e62adfc.chunk.js.map": "/tea-individual/static/js/2.6e62adfc.chunk.js.map",
+    "index.html": "/tea-individual/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/tea-individual/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6e62adfc.chunk.js.LICENSE.txt": "/tea-individual/static/js/2.6e62adfc.chunk.js.LICENSE.txt",
+    "static/media/Zuko.7a5fbf29.png": "/tea-individual/static/media/Zuko.7a5fbf29.png",
+    "static/media/danny.74f5cc58.jpg": "/tea-individual/static/media/danny.74f5cc58.jpg",
+    "static/media/dora.fc40f56f.jpg": "/tea-individual/static/media/dora.fc40f56f.jpg",
+    "static/media/doug.16b8b891.jpeg": "/tea-individual/static/media/doug.16b8b891.jpeg",
+    "static/media/profile_pic.1a9656fb.png": "/tea-individual/static/media/profile_pic.1a9656fb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c96b134.js",
+    "static/js/2.6e62adfc.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.86e97798.chunk.js"
+  ]
+}
